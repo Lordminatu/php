@@ -1,5 +1,5 @@
 <?php
 
-echo "alguem me mata";
+echo "Hello World";
 
 ?>
